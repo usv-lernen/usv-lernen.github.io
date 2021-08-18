@@ -12,7 +12,7 @@ Da sich im Laufe der Zeit der Anspruch an eine USV geändert hat unterscheiden w
 
 ---
 
-### VFI Dauerwandler oder Online-USV
+### VFI Dauerwandler oder Online-USV (Klasse 1)
 
 VFD (Voltage Frequency Dependent) auch als Dauerwandler oder Online-USV bezeichnet. Das Ziel einer Online-USV ist es keine Verzögerung also Umschaltzeit zu haben.
 
@@ -28,7 +28,7 @@ Quelle: [https://illustrationprize.com/70-difference-between-ups-amp-inverter](h
 
 ---
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a5c2394-f617-4252-b4c2-435a8f066a29/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a5c2394-f617-4252-b4c2-435a8f066a29/Untitled.png)
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a5c2394-f617-4252-b4c2-435a8f066a29/Untitled.png](https://imgur.com/KZ6WnQe.png)
 
 Quelle: [https://www.elektronik-kompendium.de/sites/grd/0812171](https://www.elektronik-kompendium.de/sites/grd/0812171.htm)
 
@@ -53,7 +53,7 @@ Quelle: [https://www.akkuteam.de/produkte-leistungen/usv-vergleich](https://www.
 
 
 
-### VI – Voltage Independent from Mains Supply
+### VI – Voltage Independent from Mains Supply (Klasse 2)
 
 Auch: Line-Interactive oder netzinteraktive USV ist dies die zweite Klasse von USV
 
@@ -69,7 +69,7 @@ Wirkungsgrad: 95 bis 98%
 
 Umschaltzeit: 2-4 ms
 
-### VFD – Voltage and Frequency Dependent form Mains Supply
+### VFD – Voltage and Frequency Dependent form Mains Supply (Klasse 3)
 
 Auch: Standby- oder Offline- USV, 3. Klasse von USV
 
