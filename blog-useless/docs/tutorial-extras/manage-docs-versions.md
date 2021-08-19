@@ -5,7 +5,6 @@ sidebar_position: 1
 
 # USV
 
-```markdown
 | Bezeichnung | Einheit | Formelzeichen | Definition (vereinfacht) |
 |:-------------:|:-------------:|:-----:|:----- |
 | Stromspannung | Volt | U | Differenz der elektrischen Potenziale zweier Punkte, aufgrund deren zwischen diesen beiden Punkten ein elektrischer Strom fliessen kann. |
@@ -16,8 +15,6 @@ sidebar_position: 1
 | Wirkleistung | W | P | Effektiver Verbrauch eines Gerätes |
 | Blindleistung | VAR | Q | Leistungsverlust durch Phasenverschiebung |
 | Energie | Wattstunde | E | Definiert die Gesamtleistung über einen definierten Zeitraum |
-
-```
 
 ## Formeln für die Berechnungen
 
