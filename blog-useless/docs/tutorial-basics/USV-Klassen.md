@@ -53,7 +53,7 @@ Quelle: [https://www.akkuteam.de/produkte-leistungen/usv-vergleich](https://www.
 
 
 
-### VI – Voltage Independent form Mains Supply (Klasse 2)
+### VI – Voltage Independent from Mains Supply (Klasse 2)
 
 Auch: Line-Interactive oder netzinteraktive USV ist dies die zweite Klasse von USV
 
@@ -69,7 +69,7 @@ Wirkungsgrad: 95 bis 98%
 
 Umschaltzeit: 2-4 ms
 
-### VFD – Voltage and Frequency Dependent form Mains Supply (Klasse 3)
+### VFD – Voltage and Frequency Dependent from Mains Supply (Klasse 3)
 
 Auch: Standby- oder Offline- USV, 3. Klasse von USV
 
