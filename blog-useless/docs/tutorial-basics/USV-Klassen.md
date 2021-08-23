@@ -14,7 +14,7 @@ Da sich im Laufe der Zeit der Anspruch an eine USV geändert hat unterscheiden w
 
 ### VFI Voltage and Frequency (Dauerwandler oder Online-USV) (Klasse 1)
 
-VFD (Voltage Frequency Dependent) auch als Dauerwandler oder Online-USV bezeichnet. Das Ziel einer Online-USV ist es keine Verzögerung also Umschaltzeit zu haben.
+VFI Voltage and Frequency (Dauerwandler oder Online-USV) auch als Dauerwandler oder Online-USV bezeichnet. Das Ziel einer Online-USV ist es keine Verzögerung also Umschaltzeit zu haben.
 
 Im Normalen Betrieb läuft der gesamte Strom durch die USV auch wenn sie nicht benutzt wird, und lädt ggf. den Akku auf. Sobald wir einen Ausfall haben schaltet die USV sich ein und man hat fast keine Verzögerung, zumindest so das die Systeme es nicht merken.
 
