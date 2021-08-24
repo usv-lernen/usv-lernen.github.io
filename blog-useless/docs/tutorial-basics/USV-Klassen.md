@@ -6,15 +6,15 @@ sidebar_position: 2
 
 Da sich im Laufe der Zeit der Anspruch an eine USV geändert hat unterscheiden wir deshalb in 3 verschiedenen USV Klassen. 
 
-- VFI Voltage and Frequency (Dauerwandler oder Online-USV)
-- VI Voltage Independet (Netzinteraktive USV oder Line-Interactive)
-- VFD Voltage and Frequency (Standby- bzw. Offline-USV)
+- VFI Voltage and Frequency Indepentend (Dauerwandler oder Online-USV)
+- VI Voltage Independent (Netzinteraktive USV oder Line-Interactive)
+- VFD Voltage and Frequency Dependent (Standby- bzw. Offline-USV)
 
 ---
 
-### VFI Voltage and Frequency (Dauerwandler oder Online-USV) (Klasse 1)
+### VFI Voltage and Frequency Independent (Dauerwandler oder Online-USV) (Klasse 1)
 
-VFI Voltage and Frequency (Dauerwandler oder Online-USV) auch als Dauerwandler oder Online-USV bezeichnet. Das Ziel einer Online-USV ist es keine Verzögerung also Umschaltzeit zu haben.
+VFI Voltage and Frequency Independent (Dauerwandler oder Online-USV) auch als Dauerwandler oder Online-USV bezeichnet. Das Ziel einer Online-USV ist es keine Verzögerung also Umschaltzeit zu haben.
 
 Im Normalen Betrieb läuft der gesamte Strom durch die USV auch wenn sie nicht benutzt wird, und lädt ggf. den Akku auf. Sobald wir einen Ausfall haben schaltet die USV sich ein und man hat fast keine Verzögerung, zumindest so das die Systeme es nicht merken.
 
