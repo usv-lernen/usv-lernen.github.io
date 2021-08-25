@@ -27,7 +27,7 @@ module.exports = {
           label: 'Lernen',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/usv-lernen/usv-lernen.github.io',
           label: 'GitHub',
           position: 'right',
         },
